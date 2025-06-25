@@ -1,0 +1,1 @@
+CREATE INDEX idx_matricula_ativas ON MATRICULA(Disciplina_Codigo) WHERE Status_Matricula = 'Ativa';

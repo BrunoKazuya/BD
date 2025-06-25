@@ -1,0 +1,1 @@
+CREATE INDEX idx_usuario_ordem_alfabetica ON USUARIO(Nome, Sobrenome);

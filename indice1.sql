@@ -1,0 +1,1 @@
+CREATE INDEX idx_matricula_data ON MATRICULA(Data_Matricula);
